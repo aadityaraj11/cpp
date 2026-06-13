@@ -1,0 +1,2 @@
+int res = add();
+    // cou
